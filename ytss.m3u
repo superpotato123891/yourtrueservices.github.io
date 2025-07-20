@@ -20436,3 +20436,87 @@ https://csm-e-cetubiausw2live-0cb7f86b56eb3bc26.csm.tubi.video/csm/live/37155274
 #EXT-X-STREAM-INF:BANDWIDTH=2385900,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=29.970
 https://csm-e-cetubiausw2live-0cb7f86b56eb3bc26.csm.tubi.video/csm/live/371552742/4.m3u8;jsessionid=772EA74E50F3767D2DE587B079970112.csm-e-cetubiausw2live-0cb7f86b56eb3bc26.csm.tubi.video?playback_start_ts=1752980131&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&
 
+
+
+
+
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/306.ts
+#EXTINF:-1,BeinSport2
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/307.ts
+#EXTINF:-1,BeinSport3
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/308.ts
+#EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/309.ts
+#EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/310.ts
+#EXTINF:-1,BeinSport5
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/311.ts
+#EXTINF:-1,BeinSport6
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/312.ts
+#EXTINF:-1,BeinSport7
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/313.ts
+#EXTINF:-1,BEIN SPORTS7
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/315.ts
+#EXTINF:-1,BeinSport8
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/314.ts
+#EXTINF:-1,BEIN SPORTS10
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/316.ts
+
+
+#EXTINF:-1,BEIN Sports xtra1
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/618.ts
+#EXTINF:-1,Bein Sport xtra2
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/619.ts
+#EXTINF:-1,ssc news ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/317.ts
+#EXTINF:-1,ssc 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/318.ts
+#EXTINF:-1,ssc 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/319.ts
+#EXTINF:-1,ssc 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/320.ts
+#EXTINF:-1,ssc 4 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/321.ts
+#EXTINF:-1,ssc 5 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/322.ts
+#EXTINF:-1,ssc 1 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/323.ts
+#EXTINF:-1,ssc 2 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/324.ts
+#EXTINF:-1,ssc 3 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/325.ts
+#EXTINF:-1,AR: Abu Dhabi Sport PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/591.ts
+#EXTINF:-1,AR: Abu Dhabi Sport PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/592.ts
+#EXTINF:-1,AR: Abu Dhabi Sport 1 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/593.ts
+#EXTINF:-1,AR: Abu Dhabi Sport 2 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtv11XX/airmaxtvXX11/594.ts
