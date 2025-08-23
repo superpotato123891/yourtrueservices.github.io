@@ -1,116 +1,138 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://yourtrueservices.github.io/logonocategory.png" -- https://yourtrueservices.github.io/logonocategory.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/cTLj7Yt.png" group-title="Movies",Aflam (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/n9mSHuP.png" group-title="Movies",MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/De4SEWE.png" group-title="News",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/Gp5mNea.png" group-title="News",Al Araby TV 2 (1080p)
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV (1080p)
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera Mubasher (1080p)
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera Mubasher Broadcast 2 (1080p)
-https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/AkFFrS7.png" group-title="News",CGTN Arabic (1080p) [Not 24/7]
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="News",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/jWKH922.jpeg" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/FjtzQQs.png" group-title="News",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (1080p) [Not 24/7]
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/eEV4r6J.jpg" group-title="Business",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/opBXx1K.png" group-title="Business",CNBC Arabiya (1080p)
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/Hoc3cfO.png" group-title="Documentary;News",Al Arabiya Programs (1080p)
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/M8ZuzeB.png" group-title="Religious",Al Hayat TV (720p)
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Arabia (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/er5hOK4.png" group-title="Religious",Bahrain Quran (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Africa Asia (720p)
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (1080p)
-https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/f6PQzKd.png" group-title="General",Alforat TV (1080p)
-http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/LTD0jIm.png" group-title="General",Bahrain TV (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/Czxi7yk.png" group-title="Documentary;Education",Asharq Discovery (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary (1080p)
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/QtlnZbq.png" group-title="Series",Bab Al Hara (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid (1080p) [Geo-blocked]
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 KSA (1080p)
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals (1080p)
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/BcXASJp.png" group-title="Entertainment",MBC 4 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/g5PWnqp.png" group-title="Entertainment",MBC Drama KSA (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/lF8UxvR.png" group-title="Music",MBC FM (1080p)
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
-https://hls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Music",PMC Royale (720p)
-https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/nLtiXNf.png" group-title="Music",Wanasah (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://i.imgur.com/aCJeVSr.png" group-title="Comedy;Entertainment",Ramez (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logonocategory.png" -- https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Arabic (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
+// PPV 
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/47695.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 2
+http://kstv.us:8080/live/tH300gvHff/8606073792/47696.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 3
+http://kstv.us:8080/live/tH300gvHff/8606073792/47697.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 4
+http://kstv.us:8080/live/tH300gvHff/8606073792/47698.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 5
+http://kstv.us:8080/live/tH300gvHff/8606073792/47699.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 6
+http://kstv.us:8080/live/tH300gvHff/8606073792/47700.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 7
+http://kstv.us:8080/live/tH300gvHff/8606073792/47701.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 8
+http://kstv.us:8080/live/tH300gvHff/8606073792/47702.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 9
+http://kstv.us:8080/live/tH300gvHff/8606073792/47703.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 10
+http://kstv.us:8080/live/tH300gvHff/8606073792/47704.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 11
+http://kstv.us:8080/live/tH300gvHff/8606073792/47705.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 12
+http://kstv.us:8080/live/tH300gvHff/8606073792/47706.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 13
+http://kstv.us:8080/live/tH300gvHff/8606073792/47707.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 14
+http://kstv.us:8080/live/tH300gvHff/8606073792/47708.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 15
+http://kstv.us:8080/live/tH300gvHff/8606073792/47709.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 16
+http://kstv.us:8080/live/tH300gvHff/8606073792/47710.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 17
+http://kstv.us:8080/live/tH300gvHff/8606073792/47711.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 18
+http://kstv.us:8080/live/tH300gvHff/8606073792/47712.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 19
+http://kstv.us:8080/live/tH300gvHff/8606073792/47713.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 20
+http://kstv.us:8080/live/tH300gvHff/8606073792/47714.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 21
+http://kstv.us:8080/live/tH300gvHff/8606073792/47715.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 22
+http://kstv.us:8080/live/tH300gvHff/8606073792/47716.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 23
+http://kstv.us:8080/live/tH300gvHff/8606073792/47717.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 24
+http://kstv.us:8080/live/tH300gvHff/8606073792/47718.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 25
+http://kstv.us:8080/live/tH300gvHff/8606073792/47719.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Event 26
+http://kstv.us:8080/live/tH300gvHff/8606073792/48375.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 1
+http://nonamevos.com:80/live/4500/4500/111033.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 3
+http://nonamevos.com:80/live/4500/4500/66135.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 4
+http://nonamevos.com:80/live/4500/4500/28550.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 5
+http://nonamevos.com:80/live/4500/4500/109791.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 7
+http://nonamevos.com:80/live/4500/4500/32636.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 8
+http://nonamevos.com:80/live/4500/4500/12928.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 9
+http://nonamevos.com:80/live/4500/4500/84089.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Action 10
+http://nonamevos.com:80/live/4500/4500/40242.ts
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 01
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 02
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 03
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 04
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 05
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 06
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 07
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 08
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 09
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 10
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 11
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 12
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 13
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 14
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 15
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 16
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 17
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 18
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 19
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 20
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 21
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 22
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 24
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 25
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 26
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 27
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 28
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 30
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 31
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 33
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 34
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 35
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 36
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 37
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
