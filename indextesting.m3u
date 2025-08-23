@@ -1,141 +1,142 @@
 #EXTM3U
 -- PPV 
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 1
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 1
 http://kstv.us:8080/live/tH300gvHff/8606073792/47695.ts
 #EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 2
 http://kstv.us:8080/live/tH300gvHff/8606073792/47696.ts
 #EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 3
 http://kstv.us:8080/live/tH300gvHff/8606073792/47697.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 4
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 4
 http://kstv.us:8080/live/tH300gvHff/8606073792/47698.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 5
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 5
 http://kstv.us:8080/live/tH300gvHff/8606073792/47699.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 6
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 6
 http://kstv.us:8080/live/tH300gvHff/8606073792/47700.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 7
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 7
 http://kstv.us:8080/live/tH300gvHff/8606073792/47701.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 8
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 8
 http://kstv.us:8080/live/tH300gvHff/8606073792/47702.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 9
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 9
 http://kstv.us:8080/live/tH300gvHff/8606073792/47703.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 10
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 10
 http://kstv.us:8080/live/tH300gvHff/8606073792/47704.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 11
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 11
 http://kstv.us:8080/live/tH300gvHff/8606073792/47705.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 12
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 12
 http://kstv.us:8080/live/tH300gvHff/8606073792/47706.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 13
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 13
 http://kstv.us:8080/live/tH300gvHff/8606073792/47707.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 14
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 14
 http://kstv.us:8080/live/tH300gvHff/8606073792/47708.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 15
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 15
 http://kstv.us:8080/live/tH300gvHff/8606073792/47709.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 16
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 16
 http://kstv.us:8080/live/tH300gvHff/8606073792/47710.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 17
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 17
 http://kstv.us:8080/live/tH300gvHff/8606073792/47711.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 18
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 18
 http://kstv.us:8080/live/tH300gvHff/8606073792/47712.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 19
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 19
 http://kstv.us:8080/live/tH300gvHff/8606073792/47713.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 20
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 20
 http://kstv.us:8080/live/tH300gvHff/8606073792/47714.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 21
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 21
 http://kstv.us:8080/live/tH300gvHff/8606073792/47715.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 22
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 22
 http://kstv.us:8080/live/tH300gvHff/8606073792/47716.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 23
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 23
 http://kstv.us:8080/live/tH300gvHff/8606073792/47717.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 24
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 24
 http://kstv.us:8080/live/tH300gvHff/8606073792/47718.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 25
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 25
 http://kstv.us:8080/live/tH300gvHff/8606073792/47719.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Event 26
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Event 26
 http://kstv.us:8080/live/tH300gvHff/8606073792/48375.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 1
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 1
 http://nonamevos.com:80/live/4500/4500/111033.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 3
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 3
 http://nonamevos.com:80/live/4500/4500/66135.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 4
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 4
 http://nonamevos.com:80/live/4500/4500/28550.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 5
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 5
 http://nonamevos.com:80/live/4500/4500/109791.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 7
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 7
 http://nonamevos.com:80/live/4500/4500/32636.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 8
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 8
 http://nonamevos.com:80/live/4500/4500/12928.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 9
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 9
 http://nonamevos.com:80/live/4500/4500/84089.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Action 10
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Action 10
 http://nonamevos.com:80/live/4500/4500/40242.ts
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 01
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 01
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 02
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 02
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 03
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 03
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 04
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 04
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 05
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 05
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 06
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 06
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 07
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 07
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 08
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 08
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 09
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 09
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 10
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 10
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 11
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 11
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 12
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 12
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 13
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 13
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 14
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 14
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 15
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 15
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 16
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 16
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 17
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 17
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 18
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 18
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 19
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 19
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 20
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 20
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 21
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 21
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 22
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 22
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 24
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 24
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 25
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 25
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 26
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 26
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 27
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 27
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 28
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 28
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 30
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 30
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 31
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 31
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 33
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 33
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 34
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 34
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 35
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 35
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 36
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 36
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
-#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/wlogoppv.png" group-title="PPV (Pay Per View)",PPV Cinema 37
+#EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/Logopppv.png" group-title="PPV (Pay Per View)",PPV Cinema 37
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
+
 
 
 
