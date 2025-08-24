@@ -612,8 +612,9 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/127974.ts
 
 
 ------------------------------------------ News ------------------------------------
-#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https:yourtrueservices.github.io/logonews.png" group-title="News",REN TV International
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://yourtrueservices.github.io/logonews.png" group-title="News",REN TV International
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
 
 
 
@@ -2866,7 +2867,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India Region" tvg-logo=" ", NetGeo Wild
 https://rex-streaming.vercel.app/api/x/109976.m3u8
-#EXTINF:-1 group-title="India Region" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               hindi.news24online.com/wp-content/uploads/2022/07/logo.png" group-title="News",News 24
+#EXTINF:-1 group-title="India Region" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               hindi.news24online.com/wp-content/uploads/2022/07/logo.png" group-title="India Region",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yourtrueservices.github.io/logoindia.png"               dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="India Region",NEWS 24 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
@@ -3685,4 +3686,5 @@ https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg0
 ----------------------------------------------------------US---------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="KERODT1.us" tvg-logo="https://yourtrueservices.github.io/logous.png" group-title="US",23 ABC Bakersfield CA
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
 
