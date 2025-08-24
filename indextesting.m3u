@@ -2137,9 +2137,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 
 ------------------------------------India Region---------------------------------------
-#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               i.imgur.com/BbFNpMr.jpeg" group-title="Asia",ZB Cartoon (1080p)
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               i.imgur.com/BbFNpMr.jpeg" group-title="India Region",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               i.imgur.com/BbFNpMr.jpeg" group-title="Asia",ZB Cartoon (1080p)
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               i.imgur.com/BbFNpMr.jpeg" group-title="India Region",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="India Region" tvg-logo="https://yourtrueservices.github.io/logoindia.png"               static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest?cb=20210423103847" group-title="India Region",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -3685,3 +3685,4 @@ https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg0
 ----------------------------------------------------------US---------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="KERODT1.us" tvg-logo="https://yourtrueservices.github.io/logous.png" group-title="US",23 ABC Bakersfield CA
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
