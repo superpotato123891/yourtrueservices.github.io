@@ -1,203 +1,156 @@
-#EXTM3U
-#EXTINF:-1,Detective Conan 1 (Opt-1)
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1,Detective Conan 1 (Opt-2)
-http://ws.hls.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.m3u8
-#EXTINF:-1,Detective Conan 2 (Opt-1)
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:-1,Detective Conan 2 (Opt-2)
-http://ws.hls.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.m3u8
-#EXTINF:-1,Detective Conan 3 (Opt-1)
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1,Detective Conan 3 (Opt-2)
-http://ws.hls.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.m3u8
-#EXTINF:-1,Doraemon (Opt-1)
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
-#EXTINF:-1,Doraemon (Opt-2)
-https://ws.hls.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.m3u8
-
 
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Prima Stagione"tvg-name="---Prima Stagione---" tvg-logo="http://psicologiaramonda.it/wp-content/uploads/2018/11/numero-1.png"group-title="Conan",[COLOR yellow]---Prima Stagione---[/COLOR]
-https://www.animeuniverse.it
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 1
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0001_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 2" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 2
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0002_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 3" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 3
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0003_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 4" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 4
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0004_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 5" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 5
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0005_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 6" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 6
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0006_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 7" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 7
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0007_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 8" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 8
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0008_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 9" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 9
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0009_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 9" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 9
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_009_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 10" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 10
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0010_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 11" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 11
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0011_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 12" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 12
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0012_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 13" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 13
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0013_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 14" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 14
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0014_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 15" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 15
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0015_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 16" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 16
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0016_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 17" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 17
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0017_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 18" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 18
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0018_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 19" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 19
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0019_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 20" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 20
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0020_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 21" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 21
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0021_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 22" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 22
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0022_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 23" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 23
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0023_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 24" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 24
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0024_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 25" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 25
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0025_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 26" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 26
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0026_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 27" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 27
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0027_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 28" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 28
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0028_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 29" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 29
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0029_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 30" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 30
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0030_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 31" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 31
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0031_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 32" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 32
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0032_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 33" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 33
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0033_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 34" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 34
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0034_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 35" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 35
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0035_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 36" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 36
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0036_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 37" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 37
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0037_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 38" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 38
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0038_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 39" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 39
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0039_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 40" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 40
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0040_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 41" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 41
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0041_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 42" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 42
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0042_ITA.mp4
-#EXTINF:-1, tvg-id="Prima Stagione" tvg-name="Conan ep 43" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 43
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0043_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione"tvg-name="---Seconda Stagione---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/NYCS-bull-trans-2.svg/75px-NYCS-bull-trans-2.svg.png"group-title="Conan",[COLOR yellow]---Seconda Stagione---[/COLOR]
-https://www.aniplay.it
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 44" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 44
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0044_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 45" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 45
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0045_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 46" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 46
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0046_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 47" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 47
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0047_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 48" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 48
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0048_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 49" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 49
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0049_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 50" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 50
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0050_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 51" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 51
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0051_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 52" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 52
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0052_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 53" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 53
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0053_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 54" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 54
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0054_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 55" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 55
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0055_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 56" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 56
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0056_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 57" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 57
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0057_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 58" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 58
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0058_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 59" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 59
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0059_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 60" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 60
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0060_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 61" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 61
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0061_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 62" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 62
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0062_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 63" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 63
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0063_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 64" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 64
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0064_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 65" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 65
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0065_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 66" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 66
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0066_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 67" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 67
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0067_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 68" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 68
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0068_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 69" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 69
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0069_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 70" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 70
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0070_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 71" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 71
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0071_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 72" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 72
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0072_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 73" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 73
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0073_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 74" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 74
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0074_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 75" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 75
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0075_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 76" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 76
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0076_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 77" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 77
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0077_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 78" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 78
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0078_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 79" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 79
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0079_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 80" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 80
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0080_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 81" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 81
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0081_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 82" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 82
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0082_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 83" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 83
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0083_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 84" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 84
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0084_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 85" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 85
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0085_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 86" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 86
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0086_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 87" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 87
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0087_ITA.mp4
-#EXTINF:-1, tvg-id="Seconda Stagione" tvg-name="Conan ep 88" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Detective%20Conan/Ep%20Detective%20Conan.jpg" group-title="Conan",Conan ep 88
-https://srv15-kobe.sweetpixel.org/DDL/ANIME/DetectiveConan/DetectiveConan_Ep_0088_ITA.mp4
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 930
+https://server1.streamallinone.com/hls/kRFGUsf/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 931
+https://gethls.animemylife.com/hls/9749d0f7a5a2bc4ed560b4f264252f4d/9749d0f7a5a2bc4ed560b4f264252f4d.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 932
+https://gethls.animemylife.com/hls/ca06413babe4e67dec6003ac979d1bd7/ca06413babe4e67dec6003ac979d1bd7.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 933
+https://gethls.animemylife.com/hls/a1c19dc063add5357cb1805030d027c6/a1c19dc063add5357cb1805030d027c6.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 934
+https://gethls.animemylife.com/hls/d6a1e3229bb9fd0007bb87f9503a82e9/d6a1e3229bb9fd0007bb87f9503a82e9.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 935
+https://server1.streamallinone.com/hls/Pf3KwBO/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 936
+https://server1.streamallinone.com/hls/LJkIzTa/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 937
+https://server1.streamallinone.com/hls/M3nxn2v/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 938
+https://server1.streamallinone.com/hls/O6MJzFU/file_720.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 939
+https://server1.streamallinone.com/hls/JUQNpsg/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 940
+https://gethls.animemylife.com/hls/90720ec9ecf1a0f8fca804974151476f/90720ec9ecf1a0f8fca804974151476f.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 941
+https://gethls.animemylife.com/hls/d6d83410d3ec5d3a5fef14da828b2835/d6d83410d3ec5d3a5fef14da828b2835.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 942
+https://gethls.animemylife.com/hls/f91b321e2b8a59822b1884e3bf9a7abc/f91b321e2b8a59822b1884e3bf9a7abc.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 943
+https://r6---sn-w5nuxa-0u2e.googlevideo.com/videoplayback?service=marimodesign&ipbits=0&bypass=yes&keeplive=true&expire=1598799189&ei=1UxLX4s08M_MtQ_bub4I&ip=2001:bc8:1820:1d01::1&id=917df4e31da5a161&itag=22&source=blogger&susc=bl&mime=video/mp4&dur=1479.621&lmt=1598216490381833&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRgIhAKO3NL3DYADZ0V_Ud7CZzDHVA7kljGTcr-79luUp3R2zAiEAzsgDqYure_L6uiUY5NZzQqZtUAQTBeovAWL0d9MMdns%3D&cms_redirect=yes&mh=JP&mip=2403:6200:8818:e8f1:91ec:2935:ceaf:4bf4&mm=31&mn=sn-w5nuxa-0u2e&ms=au&mt=1598770594&mv=m&mvi=6&pl=48&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgJQuT8ubeZRN9bCocLEV2kqzWtoHvHrKZ5bAKvhr-PS8CIAIz-KF0nZV-TygnXn_7nEHab8cImgVK7iruwpqwKfs6
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 944
+https://psv4.userapi.com/c856528/u601697558/docs/d17/50e741b255f6/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4?extra=vOHITQef4VbmT6028QgNEY2eK7OyZVXdDWUsBSxjjQYUVB_IKsQi3Nq7Fojaz1zeAoBk7EI5muc1qvrMQRsmmdpogCC6uemGsIV-XfE76acO6EvGQjVk2C452YpVCokDZIGcjFy0LywWzQ&dl=1
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 945
+https://gethls.animemylife.com/hls/3b5664d94b4371e9a0a86f6a7d94ac0c/3b5664d94b4371e9a0a86f6a7d94ac0c.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 946
+https://dir-war-s16-stream.asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network/hls/pbfppcphzwp2e5hvvo6l6ni62lcx2q374ny5la2vvn2ooufpenpjpzl7ea2q/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 947
+https://gethls.animemylife.com/hls/9247e77a0d1646083303a41f031d60cf/9247e77a0d1646083303a41f031d60cf.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 948
+https://gethls.animemylife.com/hls/11afdecde44066631dd7c9c07a07d944/11afdecde44066631dd7c9c07a07d944.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 949
+https://psv4.userapi.com/c856416/u601697558/docs/d7/9fcaa3539495/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 950
+https://psv4.userapi.com/c856416/u601697558/docs/d12/a65284b86d6e/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 951
+https://dir-war-s38-stream.asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network/hls/pbfppvw5z6p2e5hvvorl6p24zbstq3efh3ovt5ym3d5oqceih4shuq65vn2q/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 952
+https://dir-war-s10-stream.asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network/hls/pbfppxg5z6p2e5hvvorl63qcrspwvqojedft74t62gdedaw6n6alv53gheca/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 953
+https://psv4.userapi.com/c856332/u601697558/docs/d12/1b024437729d/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 954
+https://psv4.userapi.com/c856528/u601697558/docs/d15/37e60b57e9ec/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 955
+https://psv4.userapi.com/c856528/u601697558/docs/d1/09a5de9de04d/Detective_Conan__3618__3629__3604__3609__3633__3585__3626__3639__3610__3592__3636__3659__3623__3650__3588__3609__3633__3609__3648__3604__3629__3632__3595__3637__3619__3637__3626__3660__3611__3637_19__3605__3629__3609__36.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 956
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP956.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 957
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP957.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 958
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP958.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 959
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP959.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 960
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP960.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 961
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP961.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 962
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP962.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 963
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP963.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 964
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP964.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 965
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP965.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 966
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP966.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 967
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP967.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 968
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP968.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 969
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/C/Conan_The_Series_19_T/EP969.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 970
+https://lucius.tubecdn.co/ivs5xch4xbypab7wfx5ix5ldocdu5zplixxdjxqa76nx3zfjmpux4mrg5cwq/v.mp4
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 971
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP971.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 972
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP972.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 973
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP973.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 974
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP974.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 975
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP975.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 976
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP976.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 977
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP977.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 978
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP978.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 979
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP979.mp4/index.m3u8
+
+#EXTINF:-1 group-title="โคนัน ปี 19" tvg-logo="https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",ตอนที่ 980
+https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/C/Conan_SS19_T/EP980.mp4/index.m3u8
+
